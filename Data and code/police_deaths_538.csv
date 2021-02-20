@@ -1,0 +1,540 @@
+Person,Cause,Date,Dept_name,State
+Agent Mayra Del Carmen Ramírez-Barreto,Automobile accident,1/10/2013,Puerto Rico Department of Justice, PR
+Correctional Officer Eliezer Colón-Claussells,Automobile accident,1/10/2013,Puerto Rico Department of Corrections and Rehabilitation, PR
+Police Officer Kevin A. Tonn,Gunfire,1/15/2013,Galt Police Department, CA
+Detective Traci L. Tack-Czajkowski,9/11 related illness,1/15/2013,New York City Police Department, NY
+Detective Tommy L. Merriweather,9/11 related illness,1/21/2013,New York City Police Department, NY
+Trooper Anson Blake Tribby,Automobile accident,1/22/2013,Kentucky State Police, KY
+Trooper Michael Wayne Slagle,Automobile accident,1/25/2013,Tennessee Highway Patrol, TN
+"Sergeant Frederick Albert ""Rick"" Riggenbach",Gunfire,1/26/2013,Chitimacha Tribal Police Department, TR
+Police Officer William Michael McGary,Vehicular assault,2/1/2013,Conway Police Department, AR
+Police Officer Patricia A. Parete,Gunfire,2/2/2013,Buffalo Police Department, NY
+Public Safety Officer Keith Lawrence,Gunfire,2/3/2013,University of Southern California Department of Public Safety, CA
+Deputy Sheriff Billy Ray Grimsley,Motorcycle accident,2/3/2013,Portsmouth Sheriff's Office, VA
+Police Officer Michael Daniel Crain,Gunfire,2/7/2013,Riverside Police Department, CA
+Detective Jeremiah Alan MacKay,Gunfire,2/12/2013,San Bernardino County Sheriff's Department, CA
+Police Officer Joshua Phillip Lynaugh,Heart attack,2/16/2013,St. Paul Police Department, MN
+Senior Officer Specialist Eric Williams,Stabbed,2/25/2013,United States Department of Justice - Federal Bureau of Prisons, US
+"Sergeant Loran Lee ""Butch"" Baker, Jr.",Gunfire,2/26/2013,Santa Cruz Police Department, CA
+Detective Elizabeth Chase Butler,Gunfire,2/26/2013,Santa Cruz Police Department, CA
+Lieutenant Osvaldo Albarati,Gunfire,2/26/2013,United States Department of Justice - Federal Bureau of Prisons, US
+Sergeant Gary Morales,Gunfire,2/28/2013,St. Lucie County Sheriff's Office, FL
+Corporal Terry Wayne Johnson,Automobile accident,3/2/2013,Sebastian County Sheriff's Office, AR
+Lieutenant Steven L. Cioffi,9/11 related illness,3/5/2013,New York City Police Department, NY
+Master Trooper Junius Alvin Walker,Gunfire,3/7/2013,Virginia State Police, VA
+Village Public Safety Officer Thomas O. Madole,Gunfire,3/19/2013,Alaska State Troopers - Village Public Safety Officers, AK
+Executive Director Thomas L. Clements,Gunfire,3/19/2013,Colorado Department of Corrections, CO
+Police Chief Randy J. Boykin,Struck by vehicle,3/19/2013,Enterprise Police Department, MS
+Sergeant Gilbert Cortez,Automobile accident,3/25/2013,California Department of Corrections and Rehabilitation, CA
+Coordinator Larry D. Johnson,Heart attack,3/26/2013,Fifth Judicial District Drug Task Force, AR
+Trooper James Michael Sauter,Automobile accident,3/28/2013,Illinois State Police, IL
+Trooper Tage Brandel Toll,Aircraft accident,3/30/2013,Alaska State Troopers, AK
+Correctional Officer Brandon Elliot Kountz,Heart attack,3/31/2013,United States Department of Justice - Federal Bureau of Prisons, US
+"Detective Eric Tyrone Smith, Sr.",Gunfire,4/4/2013,Jackson Police Department, MS
+Deputy Sheriff Hans J. Fifer,Heart attack,4/8/2013,Faulkner County Sheriff's Office, AR
+"Chief of Police Anthony Quinn Barfield, Sr.",Heart attack,4/9/2013,Barwick Police Department, GA
+Police Officer Donald E. Bishop,Heart attack,4/13/2013,Town of Brookfield Police Department, WI
+Assistant Warden Peggy L. Sylvester,Automobile accident,4/14/2013,Opelousas Police Department, LA
+Patrol Officer Sean Allen Collier,Gunfire,4/18/2013,Massachusetts Institute of Technology Police Department, MA
+Deputy Sheriff Chad Christian Key,Vehicular assault,4/20/2013,Grayson County Sheriff's Office, TX
+Deputy Sheriff Douglas Leon Hanna,Automobile accident,4/21/2013,Washita County Sheriff's Office, OK
+"Master Deputy Sheriff Joseph ""Shane"" Robbins",Automobile accident,4/26/2013,Polk County Sheriff's Office, FL
+Police Officer Larry Dale Candelari,Struck by vehicle,4/26/2013,Pasadena Police Department, TX
+"Detective Charles John Wassil, Jr.",9/11 related illness,5/1/2013,Peekskill Police Department, NY
+"Sergeant Donald J. O'Leary, Jr.",9/11 related illness,5/1/2013,New York City Police Department, NY
+"Patrolman William Jerry McCarthy, IV",Vehicle pursuit,5/2/2013,Shenango Township Police Department, PA
+Officer Timothy Allen Huffman,Automobile accident,5/6/2013,Arizona Department of Public Safety, AZ
+Detective Bob W. Branham,Gunfire,5/14/2013,Louisville Metro Police Department, KY
+Detective Richard H. Wentz,9/11 related illness,5/14/2013,New York City Police Department, NY
+Special Agent Christopher William Lorek,Training accident,5/17/2013,United States Department of Justice - Federal Bureau of Investigation, US
+Special Agent Stephen Palmer Shaw,Training accident,5/17/2013,United States Department of Justice - Federal Bureau of Investigation, US
+Police Officer Daryl Michael Raetz,Struck by vehicle,5/19/2013,Phoenix Police Department, AZ
+Deputy Sheriff Timothy Eugene Causey,Fire,5/19/2013,Horry County Sheriff's Office, SC
+Police Officer Anthony DeJesus,9/11 related illness,5/24/2013,New York City Police Department, NY
+Police Officer Jason Scott Ellis,Gunfire,5/25/2013,Bardstown Police Department, KY
+Detective Carmen M. Figueroa,9/11 related illness,5/26/2013,New York City Police Department, NY
+Sheriff Cody Don Carpenter,Drowned,5/31/2013,Scott County Sheriff's Office, AR
+Wildlife Officer Joel Lee Campora,Drowned,5/31/2013,Arkansas Game and Fish Commission, AR
+"Trooper Sean Michael O'Connell, Jr.",Motorcycle accident,5/31/2013,Washington State Patrol, WA
+Police Officer Nicholas G. Finelli,9/11 related illness,6/8/2013,New York City Police Department, NY
+Lieutenant Stanley Lewis Klingenschmidt,Motorcycle accident,6/15/2013,Southern Pines Police Department, NC
+Police Officer William Jason Sprague,Vehicular assault,6/15/2013,Texarkana Police Department, TX
+Special Agent James Terry Watson,Stabbed,6/21/2013,United States Department of Justice - Drug Enforcement Administration, US
+"Patrolman Daniel ""J.J."" Lomax",Electrocuted,6/22/2013,Forest City Borough Police Department, PA
+Deputy Sheriff Steven George Netherland,Automobile accident,6/24/2013,Vernon Parish Sheriff's Office, LA
+"Sergeant Lance Allen ""Lou"" McLean",Gunfire,6/29/2013,Hood County Sheriff's Office, TX
+Police Officer II Rodney Renee Thomas,Vehicular assault,7/7/2013,New Orleans Police Department, LA
+"Sergeant Leonard Robert Luna, Jr.",Motorcycle accident,7/8/2013,Hawthorne Police Department, CA
+Police Officer Robert Layden Hornsby,Gunfire,7/14/2013,Killeen Police Department, TX
+Police Officer Bruce Daniel Jacob,Struck by vehicle,7/20/2013,Jackson Police Department, MS
+Police Officer David Lee VanBuskirk,Fall,7/22/2013,Las Vegas Metropolitan Police Department, NV
+"Trooper Winston I. Martindale, Jr.",Fall,7/24/2013,New York State Police, NY
+Corporal Thomas Keith Slay,Automobile accident,7/30/2013,Columbus Police Department, GA
+Deputy Sheriff Jeff G. Watson,Automobile accident,8/4/2013,St. Charles Parish Sheriff's Office, LA
+Sergeant Michael L. Wilson,Gunfire,8/5/2013,Charlotte County Sheriff's Office, FL
+Deputy Sheriff Chad D. Shaw,Heart attack,8/6/2013,McCracken County Sheriff's Office, KY
+"Sergeant Jorge Luis ""JL"" Garcia",Automobile accident,8/9/2013,Pharr Police Department, TX
+Police Officer I Ivorie Gerhard Klusmann,Automobile accident,8/10/2013,DeKalb County Police Department, GA
+Police Officer Francis T. Pitone,9/11 related illness,8/11/2013,New York City Police Department, NY
+Police Officer Jonathan R. Long,Vehicle pursuit,8/15/2013,Akron Police Department, OH
+Trooper William P. Keane,Heart attack,8/23/2013,New York State Police, NY
+Police Officer I Jason L. Schneider,Gunfire,8/28/2013,Baltimore County Police Department, MD
+Sergeant Derek Ray Johnson,Gunfire,9/1/2013,Draper Police Department, UT
+Deputy Sheriff Michael Neal Freeman,Vehicle pursuit,9/8/2013,Harrison County Sheriff's Office, TX
+"Trooper Paul Kenyon Butterfield, II",Gunfire,9/9/2013,Michigan State Police, MI
+Deputy Sheriff David E. Allford,Automobile accident,9/11/2013,Okfuskee County Sheriff's Office, OK
+Police Officer Jamie Daniel Buenting,Gunfire,9/13/2013,Rockwell City Police Department, IA
+Police Officer Rodney Wayne Jones,Duty related illness,9/14/2013,Detroit Police Department, MI
+Sergeant Sheryl A. Pierce,Duty related illness,9/14/2013,South Londonderry Township Police Department, PA
+Investigator Michael Dale Stockwell,Automobile accident,9/17/2013,Orange Beach Police Department, AL
+Police Officer Rod Lee Bradway,Gunfire,9/20/2013,Indianapolis Metropolitan Police Department, IN
+Police Officer Jon Steven Coutchie,Motorcycle accident,9/21/2013,Laguna Beach Police Department, CA
+Deputy Sheriff Daniel Rivera,Automobile accident,9/21/2013,Broward County Sheriff's Office, FL
+Detective Sergeant Frank Lema,Struck by vehicle,9/26/2013,United States Department of Defense - Naval Station Newport Police Department, US
+"Deputy Sheriff Billy F. ""Bubba"" Kennedy",Gunfire,10/2/2013,Upton County Sheriff's Department, TX
+Police Officer James M. Burke,9/11 related illness,10/6/2013,New York City Police Department, NY
+Special Agent Joseph Michael Peters,Bomb,10/6/2013,United States Army Criminal Investigation Division, US
+Lieutenant Clay D. Crabb,Automobile accident,10/16/2013,Austin Police Department, TX
+Police Officer Patrick E. Hill,Gunfire (Accidental),10/19/2013,Detroit Police Department, MI
+Detective Steven Hom,9/11 related illness,10/19/2013,New York City Police Department, NY
+Corporal Keith A. Crenshaw,Struck by vehicle,10/23/2013,Eupora Police Department, MS
+Senior Police Officer Robert A. Bingaman,Automobile accident,10/29/2013,Asheville Police Department, NC
+Police Officer Casey J. Kohlmeier,Vehicular assault,10/30/2013,Pontiac Police Department, IL
+Police Chief Steven K. Fleming,Fall,11/1/2013,Gainesville Police Department, TX
+Reserve Officer Robert A. Libke,Gunfire,11/4/2013,Oregon City Police Department, OR
+Sergeant Daniel Verle Davis,Gunfire (Accidental),11/10/2013,Phenix City Police Department, AL
+Trooper Ross M. Riley,Fall,11/20/2013,New York State Police, NY
+Supervisor Michael Clifton Baskett,Struck by vehicle,11/26/2013,United States Department of Justice - Federal Bureau of Prisons, US
+Detective Michael R. Henry,9/11 related illness,11/28/2013,New York City Police Department, NY
+Deputy Sheriff Joseph C. Antwine,Automobile accident,11/29/2013,Florence County Sheriff's Office, SC
+Sergeant Robert W. Baron,Struck by vehicle,12/6/2013,Sandoval County Sheriff's Office, NM
+Deputy Sheriff Adam J. Davis,Automobile accident,12/11/2013,Bell County Sheriff's Office, TX
+Trooper David W. Cunniff,Automobile accident,12/17/2013,New York State Police, NY
+Sergeant Ronald L. Ray,Heart attack,12/17/2013,Shelby County Sheriff's Office, TN
+Petty Officer Travis Raymond Obendorf,Boating accident,12/18/2013,United States Coast Guard Office of Law Enforcement, US
+Deputy Sheriff Clinton H. Frazier,Vehicle pursuit,12/18/2013,Union County Sheriff's Office, MS
+Sergeant Investigator Fredrich Adam Sowders,Gunfire,12/19/2013,Burleson County Sheriff's Office, TX
+Investigator Jeffrey Hugh Bryant,Automobile accident,12/20/2013,Centre Police Department, AL
+Investigator II Cuauhtemoc Estrada,Gunfire,12/20/2013,Cook County Sheriff's Office - Department of Court Services, IL
+"Police Officer Robert Carey Deckard, Jr.",Gunfire,12/20/2013,San Antonio Police Department, TX
+Police Officer Cheryl D. Johnson,9/11 related illness,12/22/2013,New York City Police Department, NY
+Lieutenant Brian J. Feldt,Duty related illness,12/23/2013,United States Department of Justice - Federal Bureau of Prisons, US
+"Sergeant Kevin ""Gale"" Stauffer, Jr.",Gunfire,12/23/2013,Tupelo Police Department, MS
+Correctional Deputy Jeremy Wayne Meyst,Automobile accident,12/24/2013,Tulare County Sheriff's Office, CA
+Officer Darrell Jean Windhaus,Heart attack,12/29/2013,United States Department of Homeland Security - Customs and Border Protection - Office of Field Operations, US
+K9 Maxo,Fall,1/26/2013,United States Department of Homeland Security - United States Secret Service Uniformed Division, US
+K9 Koda,Gunfire,1/31/2013,Leon County Sheriff's Office, FL
+K9 Kody,Stabbed,2/12/2013,St. Paul Police Department, MN
+K9 Ape,Gunfire,3/14/2013,United States Department of Justice - Federal Bureau of Investigation, US
+K9 Mattie,Automobile accident,3/25/2013,California Department of Corrections and Rehabilitation, CA
+K9 Rocky,Asphyxiation,4/7/2013,New Canaan Police Department, CT
+K9 Roscoe,Struck by vehicle,5/1/2013,Texas Department of Criminal Justice, TX
+K9 Cooper,Heat exhaustion,6/7/2013,Aiken County Sheriff's Office, SC
+K9 Spartacus,Heat exhaustion,6/17/2013,Woodstock Police Department, GA
+K9 Shadow,Training accident,6/18/2013,Hanahan Police Department, SC
+K9 Ronin,Gunfire,6/20/2013,Glendale Police Department, AZ
+K9 Kilo,Gunfire,6/24/2013,Indiana State Police, IN
+K9 Sani,Heat exhaustion,7/17/2013,United States Department of Homeland Security - Customs and Border Protection - United States Border Patrol, US
+K9 Gus,Duty related illness,8/1/2013,Florida Fish and Wildlife Conservation Commission, FL
+K9 Kali,Automobile accident,8/3/2013,Peru Police Department, IL
+K9 Max,Accidental,9/13/2013,Miami Gardens Police Department, FL
+K9 Draco,Automobile accident,10/30/2013,Pontiac Police Department, IL
+K9 Maco,Struck by vehicle,11/1/2013,Dinwiddie County Sheriff's Office, VA
+Detective Christopher Strucker,9/11 related illness,1/3/2014,New York City Police Department, NY
+Deputy Sheriff Terry B. Fisher,Heart attack,1/12/2014,Oklahoma County Sheriff's Office, OK
+"Deputy Sheriff David T. ""Bubba"" Johnson",Automobile accident,1/12/2014,Montgomery County Sheriff's Office, TN
+Detective Angel Creagh,9/11 related illness,1/14/2014,New York City Police Department, NY
+Sergeant Clinton Jeffrey Holtz,Heart attack,1/17/2014,United States Capitol Police, US
+"Detective Sergeant Thomas A. Smith, Jr",Gunfire (Accidental),1/21/2014,Bay Area Rapid Transit Police Department, CA
+Police Officer Perry T. Villani,9/11 related illness,1/21/2014,New York City Police Department, NY
+Sergeant Carlos A. Rivera-Vega,Gunfire,1/21/2014,Puerto Rico Police Department, PR
+Police Officer Kristian Daniel Willhight,Vehicle pursuit,1/23/2014,Burns Flat Police Department, OK
+Undersheriff Brian D. Beck,Vehicle pursuit,1/23/2014,Washita County Sheriff's Office, OK
+Sergeant David M. Baldwin,Motorcycle accident,1/26/2014,Jefferson County Sheriff's Office, CO
+Reserve Deputy Eddie Maurice Hamer,Automobile accident,1/27/2014,Hardeman County Sheriff's Office, TN
+"Deputy Sheriff Carlos Papillion, Jr.",Heart attack,1/28/2014,St. Landry Parish Sheriff's Office, LA
+Sergeant Cory Blake Wride,Gunfire,1/30/2014,Utah County Sheriff's Office, UT
+"Deputy Sheriff Percy Lee House, III",Automobile accident,1/31/2014,Greensville County Sheriff's Office, VA
+Deputy Sheriff Jonathan Scott Pine,Gunfire,2/11/2014,Orange County Sheriff's Office, FL
+Correctional Officer Amanda Beth Baker,Assault,2/16/2014,Scotts Bluff County Detention Center, NE
+Officer Brian Mitchio Law,Automobile accident,2/17/2014,California Highway Patrol, CA
+Officer Juan Jaime Gonzalez,Automobile accident,2/17/2014,California Highway Patrol, CA
+Detective John Thomas Hobbs,Gunfire,3/3/2014,Phoenix Police Department, AZ
+"Captain Ronald G. Peifer, Sr.",9/11 related illness,3/5/2014,New York City Police Department, NY
+Police Officer III Nicholas Choung Lee,Automobile accident,3/7/2014,Los Angeles Police Department, CA
+"Police Officer Derek Andrew ""Chip"" Hansen",Duty related illness,3/8/2014,Wapato Police Department, WA
+Agent Joaquín Correa-Ortega,Gunfire,3/10/2014,Puerto Rico Police Department, PR
+Officer Jason Marc Crisp,Gunfire,3/12/2014,United States Department of Agriculture - Forest Service Law Enforcement and Investigations, US
+Police Officer Marc Uland Kelley,Heart attack,3/14/2014,Trinity University Police Department, TX
+Detective Robert A. Montanez,9/11 related illness,3/16/2014,New York City Police Department, NY
+"Chief Deputy Sheriff Allen Ray ""Pete"" Richardson",Vehicular assault,3/17/2014,Lafayette County Sheriff's Office, AR
+Police Officer James Patrick Morrissy,Automobile accident,3/17/2014,Oak Forest Police Department, IL
+Deputy Sheriff Ricky Paul Del Fiorentino,Gunfire,3/19/2014,Mendocino County Sheriff's Office, CA
+Police Officer Robert Gordon German,Gunfire,3/22/2014,Windermere Police Department, FL
+Police Officer Mark Hayden Larson,Vehicular assault,3/24/2014,Jacksonville Sheriff's Office, FL
+Master-at-Arms Mark Aaron Mayo,Gunfire,3/24/2014,United States Navy Security Forces, US
+Patrolman Alexander Edward Thalmann,Gunfire,3/31/2014,New Bern Police Department, NC
+"Police Officer David Wayne Smith, Jr.",Gunfire,3/31/2014,Johnson City Police Department, NY
+Police Officer Gregory T. Maloney,Motorcycle accident,4/1/2014,Plymouth Police Department, MA
+Deputy Sheriff Ernest T. Franklin,Automobile accident,4/2/2014,Barren County Sheriff's Office, KY
+Detective John J. Marshall,9/11 related illness,4/6/2014,New York City Police Department, NY
+Police Officer II Christopher Alan Cortijo,Vehicular assault,4/9/2014,Los Angeles Police Department, CA
+Detective Dennis Eric Guerra,Fire,4/9/2014,New York City Police Department, NY
+Detective Douglas Henry Mayville,Duty related illness,4/9/2014,Albany Police Department, NY
+Police Officer Dennis Oliver Simmonds,Duty related illness,4/10/2014,Boston Police Department, MA
+Agent Mareli Alejandra Morales-Santiago,Automobile accident,4/10/2014,Puerto Rico Police Department, PR
+Deputy Sheriff Michael J. Seversen,Gunfire,4/14/2014,Polk County Sheriff's Office, WI
+Deputy Sheriff William Heath Kelley,Automobile accident,4/18/2014,Covington County Sheriff's Office, AL
+Deputy Sheriff Bryan Marshall Berger,Heart attack,4/28/2014,Spotsylvania County Sheriff's Office, VA
+Trooper Gabriel Lenox Rich,Gunfire,5/1/2014,Alaska State Troopers, AK
+Sergeant Patrick Scott Johnson,Gunfire,5/1/2014,Alaska State Troopers, AK
+Police Officer II Roberto Carlos Sanchez,Vehicular assault,5/3/2014,Los Angeles Police Department, CA
+Trooper Chelsea Renee Richard,Struck by vehicle,5/3/2014,Florida Highway Patrol, FL
+Police Officer Noel Lee Hawk,Heart attack,5/4/2014,Eatonton Police Department, GA
+Master Sergeant John Thomas Collum,Vehicular assault,5/9/2014,"Mississippi Department of Wildlife, Fisheries and Parks", MS
+Police Officer Michael Alexander Petrina,Struck by vehicle,5/10/2014,Metro Nashville Police Department, TN
+Detective Charles David Dinwiddie,Gunfire,5/11/2014,Killeen Police Department, TX
+Patrol Officer Stephen J. Arkell,Gunfire,5/12/2014,Brentwood Police Department, NH
+"Deputy Sheriff Steven LaCruz ""Cruz"" Thomas",Automobile accident,5/21/2014,Franklin County Sheriff's Office, GA
+Correctional Officer Chad Charles,Heart attack,5/21/2014,Michigan Department of Corrections, MI
+Police Officer Jair Abelardo Cabrera,Gunfire,5/24/2014,Salt River Police Department, TR
+Border Patrol Agent Alexander Irving Giannini,Automobile accident,5/28/2014,United States Department of Homeland Security - Customs and Border Protection - United States Border Patrol, US
+Trooper Christopher G. Skinner,Vehicular assault,5/29/2014,New York State Police, NY
+Special Deputy Marshal Frank Edward McKnight,Struck by vehicle,5/29/2014,United States Department of Justice - United States Marshals Service, US
+Sergeant Paul Aaron Buckles,Heart attack,5/30/2014,Potter County Sheriff's Office, TX
+Police Officer Brian Wayne Jones,Gunfire,5/30/2014,Norfolk Police Department, VA
+Police Officer Kevin Dorian Jordan,Gunfire,5/31/2014,Griffin Police Department, GA
+Police Officer Igor Soldo,Gunfire,6/8/2014,Las Vegas Metropolitan Police Department, NV
+Police Officer Alyn Ronnie Beck,Gunfire,6/8/2014,Las Vegas Metropolitan Police Department, NV
+Police Officer Scott Martin Hewell,Automobile accident,6/11/2014,Stockton Police Department, CA
+Chief of Police Lee Dixon,Gunfire,6/19/2014,Little River-Academy Police Department, TX
+"Deputy Sheriff Allen Morris Bares, Jr.",Gunfire,6/23/2014,Vermilion Parish Sheriff's Office, LA
+Deputy Sheriff Jacob Daniel Calvin,Automobile accident,6/28/2014,Tipton County Sheriff's Office, IN
+Officer Perry Wayne Renn,Gunfire,7/5/2014,Indianapolis Metropolitan Police Department, IN
+Patrolman Jeffrey Brady Westerfield,Gunfire,7/6/2014,Gary Police Department, IN
+Police Officer John Donald Herring,Heart attack,7/7/2014,Fresno Police Department, CA
+Deputy Sheriff Frank Gregory Bordonaro,Heart attack,7/8/2014,Genesee County Sheriff's Office, NY
+Detective Melvin Vincent Santiago,Gunfire,7/13/2014,Jersey City Police Department, NJ
+Police Officer Christopher Mark Goodell,Automobile accident,7/17/2014,Waldwick Police Department, NJ
+City Marshal Larry Jeane,Automobile accident,7/20/2014,Pineville City Marshal's Office, LA
+Detective John A. Russo,9/11 related illness,7/22/2014,New York City Police Department, NY
+Police Officer Scott Thomas Patrick,Gunfire,7/30/2014,Mendota Heights Police Department, MN
+Lieutenant Patrick Libertone,Heart attack,8/12/2014,Los Angeles County Sheriff's Department, CA
+Sheriff Mark Alan Hecker,Heart attack,8/12/2014,Butler County Sheriff's Office, NE
+Detective James J. Albanese,9/11 related illness,8/13/2014,New York City Police Department, NY
+Deputy Sheriff Joseph James Dunn,Vehicular assault,8/14/2014,Cascade County Sheriff's Office, MT
+Sergeant Patrick P. Murphy,9/11 related illness,8/20/2014,New York City Police Department, NY
+Chief of Police Michael Anthony Pimentel,Gunfire,8/23/2014,Elmendorf Police Department, TX
+Agent Geniel Amaro-Fantauzzi,Gunfire,8/25/2014,Puerto Rico Police Department, PR
+Sergeant Paul Ferrara,9/11 related illness,8/28/2014,New York City Police Department, NY
+"Constable Cleveland Drew Johnson, Jr.",Automobile accident,8/28/2014,Titus County Constable's Office - Precinct 2, TX
+Police Officer Daryl R. Pierson,Gunfire,9/3/2014,Rochester Police Department, NY
+Patrolman II Nickolaus Edward Schultz,Gunfire,9/7/2014,Merrillville Police Department, IN
+Corporal Jason Eugene Harwood,Gunfire,9/7/2014,Topeka Police Department, KS
+Deputy Director Carolyn Ann Cross,Assault,9/7/2014,District of Columbia Department of Corrections, DC
+Deputy Sheriff Joseph John Matuskovic,Gunfire,9/8/2014,Charleston County Sheriff's Office, SC
+"Corporal Bryon Keith Dickson, II",Gunfire,9/12/2014,Pennsylvania State Police, PA
+Border Patrol Agent Tyler Ryan Robledo,Automobile accident,9/12/2014,United States Department of Homeland Security - Customs and Border Protection - United States Border Patrol, US
+Deputy Sheriff Michael Andrew Norris,Gunfire,9/14/2014,Monroe County Sheriff's Office, GA
+"Police Officer Reinaldo Arocha, Jr.",Heart attack,9/16/2014,Newark Police Department, NJ
+Senior Deputy Jessica Laura Hollis,Drowned,9/18/2014,Travis County Sheriff's Office, TX
+Police Officer Michael C. Williams,Automobile accident,9/21/2014,New York City Police Department, NY
+Police Officer Jordan Jeffrey Corder,Motorcycle accident,9/30/2014,Covina Police Department, CA
+Trooper David Kedra,Gunfire (Accidental),9/30/2014,Pennsylvania State Police, PA
+Sergeant Stephen P. Scalza,9/11 related illness,10/1/2014,New York City Police Department, NY
+Sergeant Michael Joe Naylor,Gunfire,10/9/2014,Midland County Sheriff's Office, TX
+Detective Luis G. Fernandez,9/11 related illness,10/16/2014,New York City Police Department, NY
+"Police Officer Eddie Joe Johnson, Jr.",Automobile accident,10/20/2014,Alton Police Department, MO
+Deputy Sheriff Danny Paul Oliver,Gunfire,10/24/2014,Sacramento County Sheriff's Department, CA
+"Detective Michael David Davis, Jr.",Gunfire,10/24/2014,Placer County Sheriff's Department, CA
+Detective Kagan Dindar,Heart attack,10/24/2014,Clarksville Police Department, TN
+Deputy Sheriff John Timothy Williamson,Heart attack,10/25/2014,Butler County Sheriff's Office, AL
+Police Officer Anthony Phillip Haase,Automobile accident,10/26/2014,Rio Rancho Police Department, NM
+Patrolman Robert Blajszczak,Heart attack,10/26/2014,Summerville Police Department, SC
+Sergeant Jeffrey W. Garrett,Heart attack,10/27/2014,Dothan Police Department, AL
+Technical Trooper Kent Eugene Newport,Heart attack,10/27/2014,Kansas Highway Patrol, KS
+"Deputy Sheriff Yevhen ""Eugene"" Kostiuchenko",Vehicular assault,10/28/2014,Ventura County Sheriff's Office, CA
+Police Officer Shaun Richard Diamond,Gunfire,10/29/2014,Pomona Police Department, CA
+"Deputy Sheriff Jesse Valdez, III",Vehicular assault,10/29/2014,Harris County Sheriff's Office, TX
+Police Officer David Smith Payne,Vehicular assault,10/31/2014,Chandler Police Department, AZ
+Inspector James Guida,9/11 related illness,10/31/2014,New York City Police Department, NY
+Constable Robert Parker White,Assault,11/1/2014,El Paso County Constable's Office - Precinct 1, TX
+Deputy Sheriff Matthew Scott Chism,Gunfire,11/2/2014,Cedar County Sheriff's Office, MO
+Deputy Sheriff Darrell James Perritt,Vehicle pursuit,11/4/2014,Maury County Sheriff's Department, TN
+"Investigator Holmes Nathaniel Smith, Jr.",Automobile accident,11/5/2014,Clarendon County Sheriff's Department, SC
+Police Officer Ronald A. Leisure,Heart attack,11/14/2014,United States Department of Veterans Affairs Police Services, US
+Police Officer Justin Robert Winebrenner,Gunfire,11/16/2014,Akron Police Department, OH
+Sergeant Jeffrey Wayne Greene,Automobile accident,11/19/2014,Union County Sheriff's Office, NC
+"Sergeant Alejandro ""Alex"" Martinez",Automobile accident,11/21/2014,Willacy County Sheriff's Office, TX
+Deputy Sheriff Christopher Lynd Smith,Gunfire,11/22/2014,Leon County Sheriff's Office, FL
+"Deputy Sheriff James ""Bart"" Hart",Automobile accident,11/23/2014,Elmore County Sheriff's Office, AL
+Agent Edwin Omar Roman-Acevedo,Gunfire,11/26/2014,San Juan Police Department, PR
+"Senior Police Officer Ernest Jesus Montoya, Sr",Heart attack,11/30/2014,Navajo Division of Public Safety, TR
+Police Officer Robert Kaminski,9/11 related illness,12/4/2014,New York City Police Department, NY
+Deputy Sheriff Grant William Whitaker,Vehicle pursuit,12/7/2014,Ingham County Sheriff's Office, MI
+Police Officer Shaun Mahoney,9/11 related illness,12/10/2014,New York City Police Department, NY
+Police Officer Richard Anthony Champion,Vehicle pursuit,12/14/2014,Perryopolis Borough Police Department, PA
+Deputy Sheriff John Robert Street,Automobile accident,12/16/2014,George County Sheriff's Office, MS
+Detective Rafael L. Ramos,Gunfire,12/20/2014,New York City Police Department, NY
+Detective Wenjian Liu,Gunfire,12/20/2014,New York City Police Department, NY
+"Police Officer Charles Roger Kondek, Jr",Gunfire,12/21/2014,Tarpon Springs Police Department, FL
+Corporal Jamel Leon Clagett,Automobile accident,12/21/2014,Charles County Sheriff's Office, MD
+Police Officer Tyler Jacob Stewart,Gunfire,12/27/2014,Flagstaff Police Department, AZ
+Police Officer Stephen John Petruzzello,Struck by vehicle,12/29/2014,Cliffside Park Police Department, NJ
+Captain Scott V. Stelmok,9/11 related illness,12/29/2014,New York City Police Department, NY
+Bridge and Tunnel Officer Thomas K. Choi,Struck by vehicle,12/29/2014,Triborough Bridge and Tunnel Authority Police, NY
+Harbor Patrol Assistant Timothy Douglas Mitchell,Drowned,12/30/2014,Avalon Harbor Patrol, CA
+"Police Officer James Ellis Foster, Jr.",Motorcycle accident,12/30/2014,Denham Springs Police Department, LA
+K9 Remi,Automobile accident,1/13/2014,Federal Reserve Bank of Chicago - Detroit Branch Police, US
+K9 Gorky,Gunfire,1/23/2014,Davie County Sheriff's Office, NC
+K9 Jager,Fall,1/27/2014,Petersburg Police Department, VA
+K9 Rocco,Stabbed,1/30/2014,Pittsburgh Police Department, PA
+K9 Maros,Gunfire,3/12/2014,United States Department of Agriculture - Forest Service Law Enforcement and Investigations, US
+K9 Mick,Gunfire,4/16/2014,Portland Police Bureau, OR
+K9 Ike,Struck by vehicle,5/3/2014,Worcester County Sheriff's Office, MD
+K9 Tanja,Gunfire,6/13/2014,Walker County Sheriff's Office, GA
+K9 Tracker,Gunfire,7/7/2014,Alabama Department of Corrections, AL
+K9 Nyx,Heat exhaustion,7/9/2014,Mills Police Department, WY
+K9 Major,Struck by vehicle,7/19/2014,Orange Police Department, CT
+K9 Kela,Heat exhaustion,8/19/2014,Duplin County Sheriff's Office, NC
+K9 Kye,Stabbed,8/25/2014,Oklahoma City Police Department, OK
+K9 Simmie,Heat exhaustion,8/27/2014,East St. Louis Police Department, IL
+K9 Petra,Fall,9/8/2014,Colorado Springs Police Department, CO
+K9 Brunie,Duty related illness,9/28/2014,Kansas City Police Department, MO
+K9 Beny,Heat exhaustion,9/28/2014,Montville Police Department, OH
+K9 Baron,Drowned,10/7/2014,St. Johns County Sheriff's Office, FL
+K9 Sara,Struck by vehicle,10/8/2014,Iowa Motor Vehicle Enforcement, IA
+K9 Robbie,Struck by vehicle,10/20/2014,Wyoming Highway Patrol, WY
+Sergeant Sean Patrick Renfro,Struck by vehicle,1/3/2015,Jefferson County Sheriff's Office, CO
+Police Officer Ronald Eugene Strittmatter,Heart attack,1/3/2015,Lakeshire Police Department, MO
+Police Officer Craig Anthony Chandler,Vehicle pursuit,1/9/2015,Baltimore City Police Department, MD
+Corrections Officer V Christopher A. Davis,Automobile accident,1/14/2015,Texas Department of Criminal Justice, TX
+"Corrections Officer V Eligio Ruiz Garcia, Jr.",Automobile accident,1/14/2015,Texas Department of Criminal Justice, TX
+Deputy Chief Steven Bonano,9/11 related illness,1/17/2015,New York City Police Department, NY
+Director of Investigations John Ballard Gorman,Gunfire (Accidental),1/21/2015,Mississippi Gaming Commission, MS
+Detective I John Scott Stevens,Automobile accident,1/21/2015,Ocean County Prosecutor's Office, NJ
+Sergeant Charles Kerry Mitchum,Automobile accident,1/26/2015,Loxley Police Department, AL
+Patrolman Roger Monroe Odell,Heart attack,1/28/2015,Town Creek Police Department, AL
+Deputy Sheriff Rodney Condall,Heart attack,1/28/2015,Orleans Parish Sheriff's Office, LA
+Detective Michael Lynn Starrett,Automobile accident,1/30/2015,Jacksboro Police Department, TN
+Trooper Nicholas Glenn Dees,Struck by vehicle,1/31/2015,Oklahoma Highway Patrol, OK
+Police Officer Peter D. Ciaccio,9/11 related illness,2/12/2015,New York City Police Department, NY
+"Police Officer III Siegfred D. R. ""Dove"" Mortera",Heart attack,2/14/2015,Guam Police Department, GU
+Captain Neville Stanley Kealii Colburn,Heart attack,2/23/2015,Honolulu Police Department, HI
+Special Agent William C. Sheldon,9/11 related illness,3/2/2015,"United States Department of Justice - Bureau of Alcohol, Tobacco, Firearms and Explosives", US
+Detective Terence Avery Green,Gunfire,3/4/2015,Fulton County Police Department, GA
+Lieutenant Clifford Scott Travis,Heart attack,3/5/2015,Bullitt County Detention Center, KY
+"Sergeant Robert Francis Wilson, III",Gunfire,3/5/2015,Philadelphia Police Department, PA
+Police Officer Brennan Roger Rabain,Automobile accident,3/7/2015,Prince George's County Police Department, MD
+Deputy U.S. Marshal Josie Lamar Wells,Gunfire,3/10/2015,United States Department of Justice - United States Marshals Service, US
+Deputy Sheriff Johnny Edward Gatson,Automobile accident,3/10/2015,Warren County Sheriff's Office, MS
+Police Officer Burke Jevon Rhoads,Automobile accident,3/11/2015,Nicholasville Police Department, KY
+Patrolman George S. Nissen,Assault,3/12/2015,Stone Park Police Department, IL
+"Trooper Donald R. Fredenburg, Jr.",Heart attack,3/13/2015,New York State Police, NY
+Police Officer Darryl Deon Wallace,Automobile accident,3/15/2015,Clayton County Police Department, GA
+Lieutenant Richard Glenn Woods,Heart attack,3/17/2015,Pell City Police Department, AL
+Patrolman Adrian Arellano,Motorcycle accident,3/18/2015,El Paso Police Department, TX
+Senior Police Officer Alex K. Yazzie,Gunfire,3/19/2015,Navajo Division of Public Safety, TR
+Police Officer Michael Jeremiah Johnson,Gunfire,3/24/2015,San Jose Police Department, CA
+Trooper Trevor John Casper,Gunfire,3/24/2015,Wisconsin State Patrol, WI
+Police Officer David Lee Colley,Automobile accident,4/4/2015,Montgomery Police Department, AL
+Police Officer Jared J. Forsyth,Gunfire (Accidental),4/6/2015,Ocala Police Department, FL
+"Police Officer Juandre Devon Gilliam, Sr",Vehicle pursuit,4/8/2015,Jeanerette Police Department, LA
+Corporal Scott R. Thompson,Heart attack,4/10/2015,Manchester Township Police Department, NJ
+Deputy Sheriff Gil C. Datan,Accidental,4/20/2015,Coos County Sheriff's Office, OR
+Detective Brian Raymond Moore,Gunfire,5/4/2015,New York City Police Department, NY
+Sergeant Gregory King Moore,Gunfire,5/5/2015,Coeur d'Alene Police Department, ID
+Lieutenant Eric Alan Eslary,Automobile accident,5/5/2015,Ligonier Township Police Department, PA
+Detective Paul John Koropal,Heart attack,5/5/2015,Allegheny County District Attorney's Office - Investigative Division, PA
+Detective Stuart F. Fishkin,9/11 related illness,5/8/2015,New York City Police Department, NY
+Patrolman Liquori Terja Tate,Gunfire,5/9/2015,Hattiesburg Police Department, MS
+Patrolman Benjamin Joseph Deen,Gunfire,5/9/2015,Hattiesburg Police Department, MS
+Auxiliary Deputy Sonny Allan Smith,Gunfire,5/15/2015,Johnson County Sheriff's Office, AR
+Police Officer Richard K. Martin,Vehicular assault,5/18/2015,Houston Police Department, TX
+Detective Kerrie Sue Orozco,Gunfire,5/20/2015,Omaha Police Department, NE
+Inspector Robert James Bowling,Automobile accident,5/21/2015,North Carolina Division of Motor Vehicles License and Theft Bureau, NC
+Deputy Sheriff Michael Alan Brandle,Heart attack,5/21/2015,Jefferson County Sheriff's Office, OH
+Trooper Taylor Joseph Thyfault,Vehicular assault,5/23/2015,Colorado State Patrol, CO
+"Patrolman James Arthur Bennett, Jr.",Gunfire,5/24/2015,Housing Authority of New Orleans Police Department, LA
+Sergeant Iris Janett Smith,Automobile accident,5/25/2015,Mississippi Department of Corrections, MS
+"Police Officer Gregg Anthony ""Nigel"" Benner",Gunfire,5/25/2015,Rio Rancho Police Department, NM
+Trooper Anthony A. Raspa,Automobile accident,5/30/2015,New Jersey State Police, NJ
+"Deputy U.S. Marshal Zacarias Toro, Jr.",9/11 related illness,6/14/2015,United States Department of Justice - United States Marshals Service, US
+Sheriff Ladson Lamar O'Connor,Vehicle pursuit,6/16/2015,Montgomery County Sheriff's Office, GA
+Police Officer Rick Lee Silva,Assault,6/18/2015,Chehalis Police Department, WA
+Police Officer Sonny Lee Kim,Gunfire,6/19/2015,Cincinnati Police Department, OH
+Police Officer Daryle S. Holloway,Gunfire,6/20/2015,New Orleans Police Department, LA
+Trooper Eric Keith Chrisman,Automobile accident,6/23/2015,Kentucky State Police, KY
+Detective Sergeant Christopher Dan Kelley,Vehicular assault,6/24/2015,Hutto Police Department, TX
+Sergeant Korby Lee Kennedy,Motorcycle accident,6/25/2015,San Angelo Police Department, TX
+Police Officer David Joseph Nelson,Vehicle pursuit,6/26/2015,Bakersfield Police Department, CA
+Correctional Officer Gregory Dale Mitchell,Accidental,7/7/2015,Georgia Department of Corrections, GA
+Patrolman John James Wilding,Fall,7/12/2015,Scranton Police Department, PA
+Sergeant James Bryan McCrystal,Vehicular assault,7/14/2015,Georgia Department of Corrections, GA
+Corrections Officer II Timothy A. Davison,Assault,7/15/2015,Texas Department of Criminal Justice, TX
+"Police Officer Vernell Brown, Jr.",Struck by vehicle,7/17/2015,New Orleans Police Department, LA
+Sergeant Scott Paul Lunger,Gunfire,7/22/2015,Hayward Police Department, CA
+Police Officer II Sean Michael Bolton,Gunfire,8/1/2015,Memphis Police Department, TN
+Police Officer Thomas Joseph LaValley,Gunfire,8/5/2015,Shreveport Police Department, LA
+Detective Brent L. Hanger,Heart attack,8/6/2015,Washington State Patrol, WA
+"First Lieutenant Arthur Adolph Green, III",Aircraft accident,8/9/2015,Michigan Department of Natural Resources, MI
+Deputy Sheriff Craig Stephen Whisenand,Automobile accident,8/11/2015,Tazewell County Sheriff's Office, IL
+Deputy Sheriff Carlos Diamond Francies,Drowned,8/13/2015,Contra Costa County Sheriff's Office, CA
+Sergeant Joseph James Abdella,Heart attack,8/14/2015,Detroit Police Department, MI
+Deputy Sheriff Carl G. Howell,Gunfire,8/15/2015,Carson City Sheriff's Office, NV
+Agent Elsa L. Rosa-Ortiz,Automobile accident,8/17/2015,Puerto Rico Police Department, PR
+Detention Officer Tronoski Dontel Jones,Heart attack,8/20/2015,Harris County Sheriff's Office, TX
+Senior Trooper Steven J. Vincent,Gunfire,8/24/2015,Louisiana State Police, LA
+Sergeant Peggy Marie Vassallo,Struck by vehicle,8/24/2015,Bellefontaine Neighbors Police Department, MO
+Police Officer Henry Andres Nelson,Gunfire,8/26/2015,Sunset Police Department, LA
+Trooper Chad H. Wolf,Motorcycle accident,8/28/2015,Michigan State Police, MI
+Trooper James Matthew Bava,Vehicle pursuit,8/28/2015,Missouri State Highway Patrol, MO
+Deputy Sheriff Darren H. Goforth,Gunfire,8/28/2015,Harris County Sheriff's Office, TX
+Sergeant Miguel Jose Perez-Rios,Gunfire,9/7/2015,Puerto Rico Police Department, PR
+Lieutenant Roy D. McLaughlin,9/11 related illness,9/10/2015,Yonkers Police Department, NY
+Deputy Chief John P. McKee,9/11 related illness,9/12/2015,City University of New York Department of Public Safety, NY
+Trooper Joseph Cameron Ponder,Gunfire,9/13/2015,Kentucky State Police, KY
+Deputy Sheriff Steven Brett Hawkins,Heart attack,9/13/2015,Harrison County Sheriff's Office, MO
+Deputy Sheriff Dwight Darwin Maness,Gunfire,9/14/2015,McHenry County Sheriff's Office, IL
+Deputy Sheriff Richard Allen Hall,Automobile accident,9/16/2015,Chatham County Sheriff's Office, GA
+Sergeant Eric O. Meier,Heart attack,9/17/2015,Crawford Police Department, NY
+Trooper Kyle David Young,Duty related illness,9/17/2015,Vermont State Police, VT
+Master Patrol Officer Kevin Jermaine Toatley,Automobile accident,9/19/2015,DeKalb County Police Department, GA
+Trooper II Nathan-Michael William Smith,Automobile accident,9/21/2015,Virginia State Police, VA
+Deputy Sheriff William J. Myers,Gunfire,9/22/2015,Okaloosa County Sheriff's Office, FL
+Deputy Sheriff Rosemary Vela,Automobile accident,9/28/2015,Madison County Sheriff's Office, TN
+Police Officer Gregory Thomas Alia,Gunfire,9/30/2015,Forest Acres Police Department, SC
+Patrol Officer Anthony E. Lossiah,Duty related illness,10/6/2015,Cherokee Indian Police Department, TR
+Investigator Steven Martin Sandberg,Gunfire,10/18/2015,Aitkin County Sheriff's Office, MN
+Detective Randolph A. Holder,Gunfire,10/20/2015,New York City Police Department, NY
+"Park Ranger James Marvin Wallen, Jr.",Automobile accident,10/25/2015,Hamilton County Parks and Recreation Department, TN
+Deputy Constable Jeffrey Emmons Radford,Automobile accident,10/28/2015,Bell County Constable's Office - Precinct 3, TX
+Police Officer Daniel Scott Webster,Gunfire,10/29/2015,Albuquerque Police Department, NM
+Sergeant William Karl Keesee,Automobile accident,10/29/2015,Texas Department of Public Safety - Texas Highway Patrol, TX
+Police Officer Bryce Edward Hanes,Vehicular assault,11/5/2015,San Bernardino Police Department, CA
+Senior Patrol Officer Daniel Neil Ellis,Gunfire,11/6/2015,Richmond Police Department, KY
+"Police Officer Nathan John Van Oort, Sr.",Weather/Natural disaster,11/7/2015,Ohio University Police Department, OH
+Police Officer Stacy Lynn Case,Automobile accident,11/7/2015,Columbia Police Department, SC
+Chief of Police Darrell Lamond Allen,Gunfire,11/10/2015,Marlin Police Department, TX
+Trooper Jaimie Lynn Jursevics,Vehicular assault,11/15/2015,Colorado State Patrol, CO
+Police Officer Ricardo Galvez,Gunfire,11/18/2015,Downey Police Department, CA
+Corporal William Matthew Solomon,Vehicular assault,11/19/2015,Georgia Ports Authority Police Department, GA
+Special Investigator Diane DiGiacomo,9/11 related illness,11/20/2015,American Society for the Prevention of Cruelty to Animals Humane Law Enforcement, NY
+K9 Officer Ryan Patrick Copeland,Automobile accident,11/23/2015,McFarland Police Department, WI
+Police Officer I Garrett Preston Russell Swasey,Gunfire,11/27/2015,University of Colorado at Colorado Springs Police Department, CO
+"Police Officer Lloyd E. Reed, Jr.",Gunfire,11/28/2015,St. Clair Township Police Department, PA
+Police Officer III Noah Aaron Leotta,Vehicular assault,12/10/2015,Montgomery County Police Department, MD
+Trooper Eli M. McCarson,Automobile accident,12/17/2015,New Jersey State Police, NJ
+Special Agent Adrianna Maria Vorderbruggen,Bomb,12/21/2015,United States Air Force Office of Special Investigations, US
+Special Agent Michael Anthony Cinco,Bomb,12/21/2015,United States Air Force Office of Special Investigations, US
+Special Agent Peter Wagner Taub,Bomb,12/21/2015,United States Air Force Office of Special Investigations, US
+"Special Agent Chester J. McBride, III",Bomb,12/21/2015,United States Air Force Office of Special Investigations, US
+Special Agent Joseph G. Lemm,Bomb,12/21/2015,United States Air Force Office of Special Investigations, US
+Special Agent Louis Michael Bonacasa,Bomb,12/21/2015,United States Air Force Office of Special Investigations, US
+Commander Frank Román-Rodríguez,Gunfire,12/28/2015,Puerto Rico Police Department, PR
+Lieutenant Luz M. Soto-Segarra,Gunfire,12/28/2015,Puerto Rico Police Department, PR
+Agent Rosario Hernández de Hoyos,Gunfire,12/28/2015,Puerto Rico Police Department, PR
+Police Officer Juan Feliciano,Heart attack,12/29/2015,New York City Police Department, NY
+K9 Blue,Fire,1/10/2015,Georgetown County Sheriff's Office, SC
+K9 Sultan,Gunfire,1/21/2015,Riverside County Sheriff's Department, CA
+K9 Pepper,Gunfire,1/28/2015,Wise County Sheriff's Office, TX
+K9 Mako,Animal related,2/19/2015,Cleveland County Sheriff's Office, NC
+K9 Fritzie,Drowned,3/12/2015,Bath Police Department, WV
+K9 Barney,Poisoned,3/25/2015,Tacoma Police Department, WA
+K9 Harry,Automobile accident,3/28/2015,Audubon County Sheriff's Office, IA
+K9 Bella,Fire,4/15/2015,Maryland Division of Correction, MD
+K9 Jimmy,Struck by vehicle,4/18/2015,King County Sheriff's Office, WA
+K9 Igor,Heat exhaustion,4/21/2015,Kissimmee Police Department, FL
+K9 Jimmy,Heat exhaustion,5/27/2015,Hialeah Police Department, FL
+K9 Hector,Heat exhaustion,5/27/2015,Hialeah Police Department, FL
+K9 Chewbacca,Animal related,6/15/2015,Hancock County Sheriff's Office, MS
+K9 Nitro,Heat exhaustion,6/30/2015,Stockton Police Department, CA
+K9 Baston,Heat exhaustion,7/10/2015,Savannah State University Police Department, GA
+K9 Titus,Heat exhaustion,7/15/2015,Little Rock Police Department, AR
+K9 Zane,Heat exhaustion,7/16/2015,Conyers Police Department, GA
+K9 Zeke,Heat exhaustion,7/23/2015,Muldrow Police Department, OK
+K9 Jola,Heat exhaustion,8/10/2015,Jim Wells County Sheriff's Office, TX
+K9 Falko,Gunfire,8/12/2015,Toledo Police Department, OH
+K9 Wix,Heat exhaustion,8/12/2015,Brown County Sheriff's Office, WI
+K9 Kojack,Heat exhaustion,8/25/2015,Maryland Division of Correction, MD
+K9 Dingo,Heat exhaustion,8/25/2015,Maryland Division of Correction, MD
+K9 Ike,Stabbed,9/2/2015,Vancouver Police Department, WA
+K9 Dutch,Training accident,9/5/2015,Minneapolis Police Department, MN
+K9 Koa,Struck by vehicle,10/16/2015,Lander Police Department, WY
+K9 Hyco,Gunfire,10/21/2015,Anderson County Sheriff's Office, SC
+"Corporal Harvey Snook, III",9/11 related illness,1/14/2016,Arlington County Police Department, VA
+"Police Officer Thomas W. Cottrell, Jr.",Gunfire,1/17/2016,Danville Police Department, OH
+"Police Officer Douglas Scott Barney, II.",Gunfire,1/17/2016,Unified Police Department of Greater Salt Lake, UT
+Correctional Officer Adam Conrad,Automobile accident,1/20/2016,Marion County Sheriff's Office, IL
+Special Agent Scott McGuire,Vehicular assault,1/24/2016,United States Department of Homeland Security - Immigration and Customs Enforcement - Homeland Security Investigations, US
+Sergeant Jason Goodding,Gunfire,2/5/2016,Seaside Police Department, OR
+Deputy Sheriff Derek Geer,Gunfire,2/8/2016,Mesa County Sheriff's Office, CO
+Deputy Sheriff Scott Ballantyne,Aircraft accident,2/10/2016,Tulare County Sheriff's Office, CA
+Senior Deputy Mark Logsdon,Gunfire,2/10/2016,Harford County Sheriff's Office, MD
+Senior Deputy Patrick Dailey,Gunfire,2/10/2016,Harford County Sheriff's Office, MD
+Major Gregory E. Barney,Gunfire,2/11/2016,Riverdale Police Department, GA
+Police Officer Jason Moszer,Gunfire,2/11/2016,Fargo Police Department, ND
+Special Agent Lee Tartt,Gunfire,2/20/2016,Mississippi Department of Public Safety - Bureau of Narcotics, MS
+Corporal Nate Carrigan,Gunfire,2/24/2016,Park County Sheriff's Office, CO
+Officer Ashley Marie Guindon,Gunfire,2/27/2016,Prince William County Police Department, VA
+Deputy Sheriff Travis Russell,Automobile accident,3/1/2016,Las Animas County Sheriff's Office, CO
+Police Officer David Stefan Hofer,Gunfire,3/1/2016,Euless Police Department, TX
+Police Officer Scot Fitzgerald,Automobile accident,3/4/2016,South Jacksonville Police Department, IL
+Trooper Sean E. Cullen,Struck by vehicle,3/8/2016,New Jersey State Police, NJ
+"Deputy Sheriff John Robert Kotfila, Jr.",Vehicular assault,3/12/2016,Hillsborough County Sheriff's Office, FL
+Officer Nathan Taylor,Struck by vehicle,3/13/2016,California Highway Patrol, CA
+Police Officer I Jacai D. Colson,Gunfire (Accidental),3/13/2016,Prince George's County Police Department, MD
+Patrolman David Ortiz,Motorcycle accident,3/14/2016,El Paso Police Department, TX
+First Sergeant Joseph G. Portaro,Heart attack,3/14/2016,West Virginia State Police, WV
+Trooper Thomas Clardy,Automobile accident,3/16/2016,Massachusetts State Police, MA
+Police Officer III Allen Lee Jacobs,Gunfire,3/18/2016,Greenville Police Department, SC
+Deputy Sheriff Carl A. Koontz,Gunfire,3/20/2016,Howard County Sheriff's Office, IN
+Police Officer Susan Louise Farrell,Vehicular assault,3/26/2016,Des Moines Police Department, IA
+Police Officer Carlos Puente-Morales,Vehicular assault,3/26/2016,Des Moines Police Department, IA
+Trooper Jeffrey Nichols,Automobile accident,3/26/2016,Texas Department of Public Safety - Texas Highway Patrol, TX
+Trooper Chad Phillip Dermyer,Gunfire,3/31/2016,Virginia State Police, VA
+Police Officer Steven Michael Smith,Gunfire,4/12/2016,Columbus Division of Police, OH
+Border Patrol Agent Jose Daniel Barraza,Automobile accident,4/18/2016,United States Department of Homeland Security - Customs and Border Protection - United States Border Patrol, US
+Sergeant Jorge Ramos,Heart attack,5/1/2016,Florida Department of Corrections, FL
+"Investigator Anthony ""TJ"" Freeman",Vehicle pursuit,5/5/2016,Bibb County Sheriff's Office, GA
+Detective Brad D. Lancaster,Gunfire,5/9/2016,Kansas City Police Department, KS
+Police Officer David Van Glasser,Gunfire,5/19/2016,Phoenix Police Department, AZ
+Police Officer Sean R. Johnson,Motorcycle accident,5/19/2016, Hilliard Division of Police, OH
+"Police Officer Ronald Tarentino, Jr.",Gunfire,5/22/2016,Auburn Police Department, MA
+Deputy Sheriff Michael Arthur Winter,Animal related,5/31/2016,Branch County Sheriff's Office, MI
+Sergeant Derrick Mingo,Automobile accident,6/4/2016,Winnsboro Police Department, LA
+"Police Officer Verdell Smith, Sr",Vehicular assault,6/4/2016,Memphis Police Department, TN
+Police Officer Natasha Maria Hunter,Vehicular assault,6/7/2016,New Orleans Police Department, LA
+Deportation Officer Brian Beliso,Heart attack,6/8/2016,United States Department of Homeland Security - Immigration and Customs Enforcement - Office of Enforcement and Removal Operations, US
+Police Officer Endy Nddiobong  Ekpanya,Vehicular assault,6/12/2016,Pearland Police Department, TX
+Agent Gilberto Colón-Leon,Gunfire,6/13/2016,Puerto Rico Police Department, PR
+Police Officer Michael Jason Katherman,Motorcycle accident,6/14/2016,San Jose Police Department, CA
+Police Officer Zachary Tyler Larnerd,Automobile accident,6/15/2016,Gainesboro Police Department, TN
+Sergeant Stacey Allen Baumgartner,Vehicle pursuit,6/19/2016,Patton Village Police Department, TX
+"Deputy Sheriff David Francis Michel, Jr.",Gunfire,6/22/2016,Jefferson Parish Sheriff's Office, LA
+Officer Bradley Wayne Treat,Animal related,6/29/2016,United States Department of Agriculture - Forest Service Law Enforcement and Investigations, US
+"Deputy Sheriff Martin Tase Sturgill, II",Heart attack,6/30/2016,Humphreys County Sheriff's Office, TN
+Sergeant David Kyle Elahi,Vehicular assault,7/3/2016,Sterlington Police Department, LA
+K9 Jojo,Asphyxiation,1/6/2016,San Bernardino County Sheriff's Department, CA
+K9 Jethro,Gunfire,1/10/2016,Canton Police Department, OH
+K9 Krijger,Gunfire,1/11/2016,Norfolk Police Department, VA
+K9 Ogar,Gunfire,1/19/2016,Smith County Constable's Office - Precinct 5, TX
+K9 Jag,Struck by vehicle,1/20/2016,Twin Rivers Unified School District Police Department, CA
+K9 Kobus,Gunfire,1/23/2016,Omaha Police Department, NE
+K9 Betcha,Struck by vehicle,1/29/2016,Rutland County Sheriff's Office, VT
+K9 Aren,Stabbed,1/31/2016,Port Authority of Allegheny County Police Department, PA
+K9 Vigor,Drowned,3/9/2016,Monroe County Sheriff's Office, TN
+K9 Reefer,Struck by vehicle,3/9/2016,Chelan County Sheriff's Office, WA
+K9 Nicky,Gunfire (Accidental),3/31/2016,Las Vegas Metropolitan Police Department, NV
+K9 Aldo,Gunfire,4/27/2016,Unified Police Department of Greater Salt Lake, UT
+K9 Bruno,Gunfire,5/18/2016,Anaheim Police Department, CA
+K9 Suki,Heat exhaustion,5/20/2016,Westchester County Department of Public Safety, NY
+K9 Ledger,Heat exhaustion,5/29/2016,La Salle County Sheriff's Office, TX
+K9 Duke,Heat exhaustion,6/1/2016,Richland Parish Sheriff's Office, LA
+K9 Rex,Heat exhaustion,6/2/2016,San Juan Police Department, TX
+K9 Inca,Heat exhaustion,6/10/2016,Cherokee County School District Police Department, GA
+K9 Bruno,Accidental,6/12/2016,Amarillo Police Department, TX
+K9 Lazer,Heat exhaustion,6/20/2016,United States Department of Homeland Security - Customs and Border Protection - United States Border Patrol, US
+K9 Tyson,Heat exhaustion,6/27/2016,Fountain County Sheriff's Office, IN
+K9 Credo,Gunfire (Accidental),6/28/2016,Long Beach Police Department, CA
+K9 Roscoe,Automobile accident,7/1/2016,Emmett Police Department, ID
